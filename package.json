@@ -1,0 +1,26 @@
+{
+  "name": "node_note_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "watch": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nllerandi/node_note_app.git"
+  },
+  "author": "Nick Llerandi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nllerandi/node_note_app/issues"
+  },
+  "homepage": "https://github.com/nllerandi/node_note_app#readme",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "yargs": "^4.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
